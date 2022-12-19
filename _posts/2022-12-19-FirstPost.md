@@ -1,3 +1,10 @@
+---
+permalink: /diary/
+title: "첫 Post"
+toc: true
+toc_sticky: true
+toc_label: "MYSELF"
+---
 # 블로그 첫글
 
 
