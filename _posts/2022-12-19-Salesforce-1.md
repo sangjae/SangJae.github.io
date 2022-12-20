@@ -1,6 +1,6 @@
 ---
 permalink: /diary/
-title: "일기장"
+title: "Salesforce 2022-12-20 오늘의 지식"
 toc: true
 toc_sticky: true
 toc_label: "MYSELF"
