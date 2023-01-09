@@ -56,4 +56,45 @@ toc_label: "MYSELF"
 
 
 <div class="{! 'slds-form-element_horizontal ' + v.deviceType}">
+
+
+***********css
+
+
+
+
+
+/* iOS type="date" width 에러 처리를 위함 */
+
+.THIS .isIOS input{
+
+  /* width:310px; */
+
+  /* 310px = 19.38em */
+
+  /* width: 19.38em; */
+
+  width: 83.5vw;
+
+}
+
+
+
+.THIS .detail.isIOS input{
+
+  /* width: 340px; */
+
+  /* width: 21.25em; */
+
+  /* width: 100vw; */
+
+}
+
+
+
+.THIS .isAndroid input{
+
+  width: 100%;
+
+}
 ```
